@@ -1,4 +1,4 @@
-let PlateNumber = ['B 2234 BTC', 'B 1935 ABC', 'B 3179 XYZ'];
+let PlateNumber = ['B 1724 TKB', 'B 9727 AQX', 'B 6775 LKZ'];
  
  let TodaysDate = 11;
  
